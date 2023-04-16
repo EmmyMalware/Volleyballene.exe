@@ -1,0 +1,9 @@
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\Volleyballene.csproj.AssemblyReference.cache
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\Volleyballene.Form1.resources
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\WindowDestroy.Properties.Resources.resources
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\Volleyballene.csproj.GenerateResource.cache
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\Volleyballene.csproj.CoreCompileInputs.cache
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\bin\Debug\WindowDestroy.exe
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\bin\Debug\WindowDestroy.pdb
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\WindowDestroy.exe
+C:\Users\Emmy\source\repos\WindowDestroy\WindowDestroy\obj\Debug\WindowDestroy.pdb
